@@ -501,13 +501,13 @@
 <repository>
 <id>releases</id>
 <name>Releases</name>
-<url>http://18.216.51.194:8081/nexus/content/repositories/releases</url>
+<url>http://3.19.53.193:8081/nexus/content/repositories/releases</url>
 </repository>
 
 <snapshotRepository>
 <id>snapshots</id>
 <name>Snapshots</name>
-<url>http://18.216.51.194:8081/nexus/content/repositories/snapshots</url>
+<url>http://3.19.53.193:8081/nexus/content/repositories/snapshots</url>
 </snapshotRepository>
 </distributionManagement>
 
